@@ -1,0 +1,1 @@
+exclude=LICENSE,terraform.tfstate,terraform.tfstate.backup,terraform.tfvars
