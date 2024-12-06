@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Concept](https://img.shields.io/badge/Status-Concept-white)](https://guide.unitvectorylabs.com/bestpractices/status/#concept)
 
-# gcp-cloudrun-iap-authui-tofu
+# gcp-cloud-run-iap-authui-tofu
 
 Deploys GCP's IaP [authui-container](https://github.com/GoogleCloudPlatform/iap-gcip-web-toolkit/tree/master/authui-container) to Cloud Run as an internet facing endpoint.
 
