@@ -1,9 +1,12 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Concept](https://img.shields.io/badge/Status-Concept-white)](https://guide.unitvectorylabs.com/bestpractices/status/#concept)
 
-
 # gcp-cloudrun-iap-authui-tofu
 
-Deploys GCP's IaP authui to Cloud Run as an internet facing endpoint.
+Deploys GCP's IaP [authui-container](https://github.com/GoogleCloudPlatform/iap-gcip-web-toolkit/tree/master/authui-container) to Cloud Run as an internet facing endpoint.
+
+## Overview
+
+This module deploys the IaP authui-container manually as opposed to the automatic deployment mechanism offered in the GCP console.  This allows for more control of the deployment allowing for direct customization of the config file.
 
 ## Usage
 
